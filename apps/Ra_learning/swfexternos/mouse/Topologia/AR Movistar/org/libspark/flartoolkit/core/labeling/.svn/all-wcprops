@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling
+END
+IFLARLabelingImage.as
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling/IFLARLabelingImage.as
+END
+FLARLabelingLabel.as
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling/FLARLabelingLabel.as
+END
+FLARLabelingImage.as
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling/FLARLabelingImage.as
+END
+FLARLabelingLabelStack.as
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling/FLARLabelingLabelStack.as
+END
+FLARLabeling_BitmapData.as
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling/FLARLabeling_BitmapData.as
+END
+FLARLabeling_ARToolKit.as
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling/FLARLabeling_ARToolKit.as
+END
+IFLARLabeling.as
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling/IFLARLabeling.as
+END
+FLARLabelingImageBitmapData.as
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/labeling/FLARLabelingImageBitmapData.as
+END

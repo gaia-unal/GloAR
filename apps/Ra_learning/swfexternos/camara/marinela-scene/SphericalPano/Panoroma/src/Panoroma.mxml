@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" creationComplete="init()">
+	<mx:Script>
+		<![CDATA[
+		
+		import flash.events.Event;
+		
+		import mx.core.MovieClipAsset;
+		
+		import org.papervision3d.cameras.FreeCamera3D;
+		import org.papervision3d.materials.MovieMaterial;
+		import org.papervision3d.objects.primitives.Sphere;
+		
+		import caurina.transitions.*;
+	    import flash.display.*;
+	    import flash.events.*;
+	    import flash.net.*;
+	    import mx.containers.*;
+	    import mx.controls.*;
+	    import mx.core.*;
+	    import mx.events.*;
+	    import mx.styles.*;
+	    import org.papervision3d.cameras.*;
+	    import org.papervision3d.events.*;
+	    import org.papervision3d.materials.*;
+	    import org.papervision3d.materials.utils.*;
+	    import org.papervision3d.objects.primitives.*;
+	    import org.papervision3d.render.*;
+	    import org.papervision3d.scenes.*;
+	    import org.papervision3d.view.*;
+
+	
+
+        private var renderer:BasicRenderEngine;
+        private var scene:Scene3D;
+        private var camera:FreeCamera3D;
+        private var viewport:Viewport3D;
+        private var panoSphere:Sphere;
+		private var sphereMat:MovieMaterial;
+		
+		private var myMouseDown:Boolean = false;
+        
+		[Embed(source="assets/ampitheaterPanoWeb.swf")]
+		private var panoAsset:Class;
+		
+        public var oneIt:int=0;
+		
+
+		
+		private function init():void
+		{
+			//Declare Papervision Variables
+			viewport = new Viewport3D(800, 600, true, true);
+            pv3Canvas.rawChildren.addChild(viewport);
+            scene = new Scene3D();
+            camera = new FreeCamera3D();
+            renderer = new BasicRenderEngine();
+			
+			
+			//Create the pano material
+			var movieAsset:MovieClipAsset = new panoAsset();
+			sphereMat = new MovieMaterial(movieAsset, false);
+			sphereMat.opposite = true;
+			sphereMat.animated = true;
+		
+			
+			//Smooth is heavy, but it makes stuff look nicer...you could make it switch dynamically.
+			sphereMat.smooth = true;
+			
+			//Create the panosphere.
+			panoSphere = new Sphere(sphereMat, 25000, 30,30);
+			
+			scene.addChild(panoSphere);
+			
+			
+			
+			//position the camera in the center of the sphere, and set it's properties for focus and zoom.
+			camera.x = camera.y = camera.z = 0;
+			camera.focus = 300;
+			camera.zoom = 2;
+			
+			
+			addEventListener(Event.ENTER_FRAME, onEnterFrame);
+			
+			viewport.addEventListener(MouseEvent.MOUSE_DOWN, onMouseDown);
+            viewport.addEventListener(MouseEvent.MOUSE_UP, onMouseUp);
+            viewport.addEventListener(MouseEvent.ROLL_OVER, onMouseUp);
+            
+            
+            
+       
+			function onMouseDown() : void
+			{
+			    myMouseDown = true;
+			   
+			};
+			
+			function onMouseUp() : void
+			{
+			    myMouseDown = false;
+			   
+			            
+            };
+			
+			
+		}
+		
+	
+		
+	 private function onEnterFrame(param1:Event = null) : void
+        {
+          
+            if (myMouseDown)
+            {
+                camera.rotationY = camera.rotationY + (mouseX - stage.width / 2) / 50;
+                camera.rotationX = camera.rotationX - (mouseY - stage.height / 2) / 50;
+                if (camera.rotationX <= -90)
+                {
+                    camera.rotationX = -90;
+                }
+                else if (camera.rotationX >= 90)
+                {
+                    camera.rotationX = 90;
+                }
+                
+                var loc_2:Number = camera.rotationY - (stage.width / 2 - mouseX) / 10;
+                Tweener.addTween(camera, {rotationY:loc_2, time:0.25, transition:"linear"});
+			
+		   }
+		   
+		   renderer.renderScene(scene, camera, viewport);
+		   
+		   
+		
+        }
+	
+//But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him. God is a Spirit: and they that worship him must worship him in spirit and in truth.
+		]]>
+	</mx:Script>
+	<mx:Canvas x="0" y="0" width="40" height="41" id="pv3Canvas">
+	</mx:Canvas>
+</mx:Application>

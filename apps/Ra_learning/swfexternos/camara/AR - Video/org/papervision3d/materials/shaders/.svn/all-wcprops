@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders
+END
+EnvMapShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/EnvMapShader.as
+END
+FlatShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/FlatShader.as
+END
+GouraudShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/GouraudShader.as
+END
+LightShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/LightShader.as
+END
+IShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/IShader.as
+END
+ShaderCompositeModes.as
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/ShaderCompositeModes.as
+END
+PhongShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/PhongShader.as
+END
+CellShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/CellShader.as
+END
+Shader.as
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/Shader.as
+END
+ILightShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/ILightShader.as
+END
+ShadedMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shaders/ShadedMaterial.as
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables
+END
+Line3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/Line3D.as
+END
+Triangle3DInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/Triangle3DInstance.as
+END
+Particle.as
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/Particle.as
+END
+Vertex3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/Vertex3D.as
+END
+AbstractRenderable.as
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/AbstractRenderable.as
+END
+VectorShapeRenderable.as
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/VectorShapeRenderable.as
+END
+Pixel3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/Pixel3D.as
+END
+Vertex3DInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/Vertex3DInstance.as
+END
+IRenderable.as
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/IRenderable.as
+END
+Triangle3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/geom/renderables/Triangle3D.as
+END

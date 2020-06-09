@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling
+END
+DefaultParticleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/DefaultParticleCuller.as
+END
+ViewportObjectFilterMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/ViewportObjectFilterMode.as
+END
+DefaultTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/DefaultTriangleCuller.as
+END
+RectangleLineCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/RectangleLineCuller.as
+END
+IParticleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/IParticleCuller.as
+END
+ITriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/ITriangleCuller.as
+END
+IObjectCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/IObjectCuller.as
+END
+RectangleParticleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/RectangleParticleCuller.as
+END
+CompositeTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/CompositeTriangleCuller.as
+END
+RectangleTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/RectangleTriangleCuller.as
+END
+DefaultLineCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/DefaultLineCuller.as
+END
+FrustumTestMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/FrustumTestMethod.as
+END
+NullTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/NullTriangleCuller.as
+END
+ILineCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/ILineCuller.as
+END
+ViewportObjectFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/ViewportObjectFilter.as
+END
+FrustumCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/culling/FrustumCuller.as
+END

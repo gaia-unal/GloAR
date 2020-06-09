@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/filter
+END
+IRenderFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/filter/IRenderFilter.as
+END
+QuadrantZFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/filter/QuadrantZFilter.as
+END
+FogFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/filter/FogFilter.as
+END
+QuadrantFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/filter/QuadrantFilter.as
+END
+BasicRenderFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/filter/BasicRenderFilter.as
+END
+AbstractQuadrantFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/filter/AbstractQuadrantFilter.as
+END

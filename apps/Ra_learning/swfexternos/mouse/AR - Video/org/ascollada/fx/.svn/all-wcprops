@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx
+END
+DaeInstanceMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeInstanceMaterial.as
+END
+DaeLambert.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeLambert.as
+END
+DaeSurface.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeSurface.as
+END
+DaeConstant.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeConstant.as
+END
+DaeSampler2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeSampler2D.as
+END
+DaeBindVertexInput.as
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeBindVertexInput.as
+END
+DaeNewParam.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeNewParam.as
+END
+DaePhong.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaePhong.as
+END
+DaeEffect.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeEffect.as
+END
+DaeMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeMaterial.as
+END
+DaeTexture.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeTexture.as
+END
+DaeBlinn.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/fx/DaeBlinn.as
+END

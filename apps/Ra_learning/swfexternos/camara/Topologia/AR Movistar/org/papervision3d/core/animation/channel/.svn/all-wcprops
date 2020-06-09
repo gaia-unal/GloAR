@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/animation/channel
+END
+AbstractChannel3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/animation/channel/AbstractChannel3D.as
+END
+MatrixChannel3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/animation/channel/MatrixChannel3D.as
+END
+MorphChannel3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/animation/channel/MorphChannel3D.as
+END
+SinglePropertyChannel3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/animation/channel/SinglePropertyChannel3D.as
+END
+MatrixStackChannel3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/animation/channel/MatrixStackChannel3D.as
+END

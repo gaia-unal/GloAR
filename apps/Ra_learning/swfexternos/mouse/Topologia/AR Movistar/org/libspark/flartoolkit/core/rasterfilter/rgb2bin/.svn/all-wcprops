@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterfilter/rgb2bin
+END
+FLARRasterFilter_BitmapDataThreshold.as
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterfilter/rgb2bin/FLARRasterFilter_BitmapDataThreshold.as
+END
+FLARRasterFilter_ARToolkitThreshold.as
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterfilter/rgb2bin/FLARRasterFilter_ARToolkitThreshold.as
+END
+IFLARRasterFilter_RgbToBin.as
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterfilter/rgb2bin/IFLARRasterFilter_RgbToBin.as
+END

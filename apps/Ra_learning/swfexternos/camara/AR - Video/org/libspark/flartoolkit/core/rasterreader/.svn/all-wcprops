@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterreader
+END
+IFLARRgbPixelReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterreader/IFLARRgbPixelReader.as
+END
+FLARBitmapDataReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterreader/FLARBitmapDataReader.as
+END
+FLARBufferReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterreader/FLARBufferReader.as
+END
+FLARBufferFormat.as
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterreader/FLARBufferFormat.as
+END
+NyARRgbPixelReader_RGB24.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterreader/NyARRgbPixelReader_RGB24.java
+END
+IFLARBufferReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/libspark/flartoolkit/core/rasterreader/IFLARBufferReader.as
+END

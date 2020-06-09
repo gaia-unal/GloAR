@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shadematerials
+END
+CellMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shadematerials/CellMaterial.as
+END
+EnvMapMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shadematerials/EnvMapMaterial.as
+END
+GouraudMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shadematerials/GouraudMaterial.as
+END
+FlatShadeMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shadematerials/FlatShadeMaterial.as
+END
+PhongMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/materials/shadematerials/PhongMaterial.as
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/sort
+END
+BasicRenderSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/sort/BasicRenderSorter.as
+END
+IRenderSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/sort/IRenderSorter.as
+END
+NullSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/sort/NullSorter.as
+END

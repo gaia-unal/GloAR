@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<galery posX="0.5" posY="0.80">
+ 	<item title="Video">
+ 		<img>imagenes/imagen_1.jpg</img>
+ 		<video>flv/como hacer un cable de red paso a paso crimpado o ponchado.flv</video>
+ 	</item>
+ 	<item title="Video">
+ 		<img>imagenes/imagen_2.jpg</img>
+ 		<video>flv/Topologias_de_Red_-_Parte_I_(HQ).flv</video>
+ 	</item>
+ 	<item title="Video">
+ 		<img>imagenes/imagen_3.jpg</img>
+ 		<video>flv/Topologias_de_Red_-_Parte_II_(HQ).flv</video>
+ 	</item>
+ 	
+</galery>

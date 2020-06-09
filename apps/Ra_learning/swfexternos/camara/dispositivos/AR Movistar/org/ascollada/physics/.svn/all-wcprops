@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics
+END
+DaeRigidConstraint.as
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeRigidConstraint.as
+END
+DaePhysicsModel.as
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaePhysicsModel.as
+END
+DaeCylinder.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeCylinder.as
+END
+DaeRigidBody.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeRigidBody.as
+END
+DaeTaperedCylinder.as
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeTaperedCylinder.as
+END
+DaeConvexMesh.as
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeConvexMesh.as
+END
+DaeInstancePhysicsMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeInstancePhysicsMaterial.as
+END
+DaeSphere.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeSphere.as
+END
+DaeInstanceForceField.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeInstanceForceField.as
+END
+DaeInstancePhysicsModel.as
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeInstancePhysicsModel.as
+END
+DaeBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeBox.as
+END
+DaeCapsule.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeCapsule.as
+END
+DaePlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaePlane.as
+END
+DaeShape.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeShape.as
+END
+DaePhysicsScene.as
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaePhysicsScene.as
+END
+DaePhysicsMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaePhysicsMaterial.as
+END
+DaeInstanceRigidBody.as
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeInstanceRigidBody.as
+END
+DaeTaperedCapsule.as
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeTaperedCapsule.as
+END
+DaeForceField.as
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/ascollada/physics/DaeForceField.as
+END

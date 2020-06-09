@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/shader
+END
+ShaderRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/shader/ShaderRenderer.as
+END
+IShaderRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/shader/IShaderRenderer.as
+END
+ShaderObjectData.as
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/CDI-PROJECTS/!svn/ver/178/D&M-RESEARCH/RealidadAumentadaPC/AR%20-%20Flartoolkit%2009-10-2009/org/papervision3d/core/render/shader/ShaderObjectData.as
+END
